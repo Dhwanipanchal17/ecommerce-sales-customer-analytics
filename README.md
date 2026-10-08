@@ -4,7 +4,7 @@
 
 This project analyzes e-commerce transaction data to understand sales performance, customer behavior, product performance, and revenue trends.
 
-The project uses Python, SQL, Excel, and Power BI to perform data cleaning, analysis, visualization, and business intelligence.
+The project uses Python, SQL, Excel, and Power BI to perform data cleaning, analysis, visualization, customer segmentation, and business intelligence.
 
 ## 🛠️ Tools & Technologies
 
