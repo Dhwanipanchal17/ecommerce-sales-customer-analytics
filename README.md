@@ -86,10 +86,18 @@ ecommerce-sales-customer-analytics/
 │
 ├── README.md
 ├── dashboard.png
-├── Ecommerce_Analytics.xlsx
-├── Ecommerce_Analytics.pbix
-├── ecommerce_analysis.ipynb
-├── ecommerce_analysis.sql
+│
+├── excel/
+│   └── Ecommerce_Analytics.xlsx
+│
+├── powerbi/
+│   └── Ecommerce_Analytics.pbix
+│
+├── python/
+│   └── ecommerce_analysis.ipynb
+│
+├── sql/
+│   └── ecommerce_analysis.sql
 │
 └── results/
     ├── customer_rfm_analysis.csv
