@@ -150,6 +150,7 @@ Based on the customer segmentation and sales analysis, businesses can:
 
 📁 Project Structure
 
+```text
 ecommerce-sales-customer-analytics/
 │
 ├── README.md
@@ -172,6 +173,7 @@ ecommerce-sales-customer-analytics/
     ├── product_analysis.csv
     ├── monthly_revenue.csv
     └── country_analysis.csv
+```
 
 ---
 
