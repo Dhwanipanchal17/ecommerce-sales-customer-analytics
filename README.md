@@ -30,6 +30,7 @@ The project uses Python, SQL, Excel, and Power BI to perform data cleaning, anal
 ## 🔍 Analysis Performed
 
 ### Sales Analysis
+
 - Monthly revenue analysis
 - Top products by revenue
 - Revenue by country
@@ -37,6 +38,7 @@ The project uses Python, SQL, Excel, and Power BI to perform data cleaning, anal
 - Average Order Value analysis
 
 ### Customer Analysis
+
 - Customer spending analysis
 - Order frequency analysis
 - Average customer spending
@@ -75,27 +77,22 @@ The project includes an interactive Power BI dashboard containing:
 - Quantity vs Revenue Analysis
 - RFM Customer Segmentation
 
+![Power BI Dashboard](dashboard.png)
+
 ## 📁 Project Structure
 
 ```text
 ecommerce-sales-customer-analytics/
 │
-├── python/
-│   └── ecommerce_analysis.ipynb
+├── README.md
+├── dashboard.png
+├── Ecommerce_Analytics.xlsx
+├── Ecommerce_Analytics.pbix
+├── ecommerce_analysis.ipynb
+├── ecommerce_analysis.sql
 │
-├── sql/
-│   └── ecommerce_analysis.sql
-│
-├── powerbi/
-│   └── Ecommerce_Analytics.pbix
-│
-├── excel/
-│   └── Ecommerce_Analytics.xlsx
-│
-├── results/
-│   ├── customer_rfm_analysis.csv
-│   ├── product_analysis.csv
-│   ├── monthly_revenue.csv
-│   └── country_analysis.csv
-│
-└── README.md
+└── results/
+    ├── customer_rfm_analysis.csv
+    ├── product_analysis.csv
+    ├── monthly_revenue.csv
+    └── country_analysis.csv
