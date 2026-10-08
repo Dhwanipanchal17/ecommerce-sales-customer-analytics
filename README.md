@@ -117,7 +117,7 @@ Dashboard Includes
 
 ![Power BI Dashboard](dashboard.png)
 
-"Power BI Dashboard" (dashboard.png)
+
 
 ---
 
