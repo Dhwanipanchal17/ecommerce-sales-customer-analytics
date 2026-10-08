@@ -113,6 +113,10 @@ Dashboard Includes
 - 📊 Quantity vs Revenue Analysis
 - 🎯 RFM Customer Segmentation
 
+### Dashboard Preview
+
+![Power BI Dashboard](dashboard.png)
+
 "Power BI Dashboard" (dashboard.png)
 
 ---
